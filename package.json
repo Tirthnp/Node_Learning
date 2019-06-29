@@ -1,0 +1,26 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev":"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirthnp/Node_Learning.git"
+  },
+  "author": "Tirth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tirthnp/Node_Learning/issues"
+  },
+  "homepage": "https://github.com/Tirthnp/Node_Learning#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
